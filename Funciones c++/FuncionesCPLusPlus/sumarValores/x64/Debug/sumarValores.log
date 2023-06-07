@@ -1,0 +1,4 @@
+﻿  sumarValores.cpp
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion Cientifica\Repositorio - Denher\introduccion a C++\Funciones c++\FuncionesCPLusPlus\sumarValores\sumarValores.cpp(15,18): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion Cientifica\Repositorio - Denher\introduccion a C++\Funciones c++\FuncionesCPLusPlus\sumarValores\sumarValores.cpp(19,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  sumarValores.vcxproj -> C:\Users\Usuario\Documents\Facultad 2do año\Programacion Cientifica\Repositorio - Denher\introduccion a C++\Funciones c++\FuncionesCPLusPlus\x64\Debug\sumarValores.exe

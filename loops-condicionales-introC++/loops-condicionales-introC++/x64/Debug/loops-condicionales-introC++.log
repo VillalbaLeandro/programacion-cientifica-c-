@@ -1,0 +1,5 @@
+﻿  loops-condicionales-introC++.cpp
+  problemas.cpp
+  Generando código...
+problemas.obj : error LNK2005: ya se definió main en loops-condicionales-introC++.obj
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion Cientifica\Repositorio - Denher\introduccion a C++\loops-condicionales-introC++\x64\Debug\loops-condicionales-introC++.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente

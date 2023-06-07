@@ -1,0 +1,4 @@
+﻿  CoordenadasCartecianas.cpp
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion Cientifica\Repositorio - Denher\introduccion a C++\CoordenadasCartecianas\CoordenadasCartecianas\CoordenadasCartecianas.cpp(7,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion Cientifica\Repositorio - Denher\introduccion a C++\CoordenadasCartecianas\CoordenadasCartecianas\CoordenadasCartecianas.cpp(27,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  CoordenadasCartecianas.vcxproj -> C:\Users\Usuario\Documents\Facultad 2do año\Programacion Cientifica\Repositorio - Denher\introduccion a C++\CoordenadasCartecianas\x64\Debug\CoordenadasCartecianas.exe

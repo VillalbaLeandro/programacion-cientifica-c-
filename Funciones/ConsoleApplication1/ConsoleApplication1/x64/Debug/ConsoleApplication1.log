@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion Cientifica\Repositorio - Denher\introduccion a C++\Funciones\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(17,18): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion Cientifica\Repositorio - Denher\introduccion a C++\Funciones\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(21,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  ConsoleApplication1.vcxproj -> C:\Users\Usuario\Documents\Facultad 2do año\Programacion Cientifica\Repositorio - Denher\introduccion a C++\Funciones\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

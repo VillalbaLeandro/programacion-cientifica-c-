@@ -1,0 +1,4 @@
+﻿  primeros-pasos-c++.cpp
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion Cientifica\Repositorio - Denher\introduccion a C++\primeros-pasos-c++\primeros-pasos-c++\primeros-pasos-c++.cpp(13,25): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Usuario\Documents\Facultad 2do año\Programacion Cientifica\Repositorio - Denher\introduccion a C++\primeros-pasos-c++\primeros-pasos-c++\primeros-pasos-c++.cpp(200,13): warning C4305: '=': truncamiento de 'double' a 'float'
+  primeros-pasos-c++.vcxproj -> C:\Users\Usuario\Documents\Facultad 2do año\Programacion Cientifica\Repositorio - Denher\introduccion a C++\primeros-pasos-c++\x64\Debug\primeros-pasos-c++.exe
